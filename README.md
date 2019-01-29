@@ -16,6 +16,8 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 5. ./ExtendedKF
 
 Checkout the video for above instructions [here](https://github.com/vyasparthm/CarND-Extended-Kalman-Filter-Project/blob/master/Instructions-Extended-Kalman-Filter.m4v)
+
+The work has been inspired from [Vivek Sharma's](https://github.com/vivekmsit) work on this project.
 Tips for setting up your environment can be found in the classroom lesson for this project.
 
 Note that the programs that need to be written to accomplish the project are src/FusionEKF.cpp, src/FusionEKF.h, kalman_filter.cpp, kalman_filter.h, tools.cpp, and tools.h
